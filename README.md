@@ -1,1 +1,1 @@
-# newArray
+# newArray class with sample usage

@@ -1,1 +1,2 @@
-# newArray class with sample usage
+# newArray class
+sample usage inside the class.
